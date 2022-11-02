@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ALLUPRASAD
 - 👀 I’m interested in ...problem solving 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
