@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ALLUPRASAD
-- 👀 I’m interested in ...problem solving 
+# 👋 Hi there, I'm Allu Prasad!  
 
+🎓 Pursuing **Master’s from IIT Madras**  
+🔍 Passionate about **problem-solving** and building scalable AI solutions  
+🤖 Experienced in **Computer Vision, Deep Learning, LLMs, and NLP**  
+🚀 Always exploring **cutting-edge AI & ML technologies**  
 
-
-<!---
-ALLUPRASAD/ALLUPRASAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Let's connect and collaborate!  
